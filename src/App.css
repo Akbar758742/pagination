@@ -1,0 +1,22 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+}
+.card{
+  
+  align-items: center;
+  width: 150px;
+  height: 200px;
+  border: 2px solid black;
+}
+.pro{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+align-items: center;
+}
+img{
+  width: 80%;
+} */
